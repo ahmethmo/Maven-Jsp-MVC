@@ -1,0 +1,13 @@
+com\servlet\FilmDetayServlet.class
+com\servlet\GirisServlet.class
+com\dao\TurDao.class
+com\entity\Kullanici.class
+com\servlet\CikisServlet.class
+com\entity\Filmler.class
+com\entity\Favoriler.class
+com\entity\Turler.class
+com\dao\ConnectionManager.class
+com\servlet\FilmlerServlet.class
+com\entity\Yonetmenler.class
+com\dao\FilmDao.class
+com\servlet\FavoriEkleServlet.class
